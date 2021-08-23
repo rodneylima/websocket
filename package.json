@@ -1,0 +1,19 @@
+{
+  "name": "DrawingGame",
+  "version": "0.0.1",
+  "main": "server.js",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SiryjVyiko/nodejs-draw-game.git"
+  },
+  "dependencies": {
+    "mime": "2.4.0",
+    "mime-types": "2.1.22",
+    "node-static": "0.7.11",
+    "socket.io": "2.2.0"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
